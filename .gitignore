@@ -1,0 +1,9 @@
+# 密钥与本地缓存（严禁提交）
+.env
+.amap_districts.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
